@@ -1,10 +1,15 @@
 {
- "work": "柿本集",
+ "work": "柿本集（群書類従本）",
  "work_id": "gunsho09-hitomaro",
  "repo": "kumoi-no-fumigura/hitomaro",
  "yomi": "かきのもとしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "飛鳥時代（伝）",
+  "author": "柿本人麻呂（伝）",
+  "desc": "柿本人麻呂の作と伝える家集。四季・恋などに分けて歌を並べ、『万葉集』の人麻呂歌集の歌や他人の作も多く混じる。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -7357,6 +7362,6 @@
   "poems": 656,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
